@@ -1,4 +1,4 @@
-# **Soft Robot Control - Model-Based Kinematic Controller**
+# **Soft Robot Kinematic Model-Based Controller**
 
 This repository contains lab activities and exercises related to the implementation of a model-based kinematic controller for soft robots under the assumption of Piecewise Constant Curvature (PCC). The exercises aim to control soft robots composed of 1-segment and 2-segment configurations to reach specified target locations in space.
 
